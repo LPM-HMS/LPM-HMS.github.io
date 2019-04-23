@@ -13,6 +13,6 @@ if ($_POST['agree']=='Yes')
     exit();
 }
 else {
-    header( 'Location: http://cosmos.hms.harvard.edu' );
+    header( 'Location: http://Mizzou-CBMI.github.io' );
 }
 ?>
